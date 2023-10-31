@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @erfanHosseinPanahi
 - 👀 I’m interested in mechanical technologies.
 - 🌱 I’m currently learning python and linux
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for remote job
 - 📫 How to reach me : erfankntu@gmail.com
 
 <!---
