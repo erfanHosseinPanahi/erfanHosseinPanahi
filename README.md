@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erfanHosseinPanahi
 - 👀 I’m interested in mechanical technologies.
-- 🌱 I’m currently learning python and linux
+- 🌱 I’m learning linux and python and solidity
 - 💞️ I’m looking for remote job
 - 📫 How to reach me : erfankntu@gmail.com
 
